@@ -1,0 +1,32 @@
+_repo: David--Five-Sermons_10326
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingley, Charles
+    - Kingsley, C. (Charles)
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Church of England -- Sermons'
+- !lcsh 'Sermons, English'
+- !lcsh 'David, King of Israel'
+- GITenberg
+tableOfContents: David's weakness -- David's strength -- David's anger -- David's
+  deserts -- Friendship; or, David and Jonathan.
+title: 'David: Five Sermons'
+url: http://www.gutenberg.org/ebooks/10326
